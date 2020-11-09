@@ -1,0 +1,9 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.reg-btn {
+    float: right;
+}
+
+.nav-wrapper {
+    padding: 0 3rem ;
+}
